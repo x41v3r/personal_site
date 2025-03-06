@@ -144,3 +144,16 @@ float f1  = 123.4f;
 ```
 
 ### 2.3.3 Character and String Literals
+
+## 2.4 Creating Arrays
+
+### 2.4.1 Declaring a Variable to Refer to an Array
+
+The preceding program declares an array (named anArray) with the following line of code:
+
+```java
+// declares an array of integers
+int[] anArray;
+```
+
+
