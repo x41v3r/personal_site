@@ -42,8 +42,10 @@ category:
   num: true # 分类显示文章数
   sub: true # 开启多级分类
   sort:
+    - C/Cpp
     - Java
     - Frontend
+    - Tools
     - 读书
     - 工具
     - 大前端
