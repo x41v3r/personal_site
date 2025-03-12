@@ -25,10 +25,11 @@ The amount of interfaces and classes in the Collections Framework may be overwhe
 
 ### 1.2.1 Extending Collection with List
 
-
+The difference between a `List` of elements and a `Collection` of elements, is that a `List` remembers in what order its elements have been added.
 
 ### 1.2.2 Extending Collection with Set
 
+I don't use this.
 
 # 2 The Stream API
 
