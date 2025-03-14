@@ -46,12 +46,6 @@ category:
     - Java
     - Frontend
     - Tools
-    - 读书
-    - 工具
-    - 大前端
-    - 后端
-    - 数据库
-    - 运维
   width:
     lg: 120 # 1468px<屏幕宽度 左侧分类宽度
     md: 100 # 1024px<屏幕宽度<=1468px 左侧分类宽度

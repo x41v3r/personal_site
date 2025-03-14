@@ -1,15 +1,12 @@
 ---
-title: Git
+title: Maven
 date: 2025-03-06 20:51:36
 categories:
 - Tools
 tags:
 ---
 
-
-# 1
-
-
+# 1 
 
 
 
