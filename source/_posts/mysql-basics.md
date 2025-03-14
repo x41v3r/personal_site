@@ -6,30 +6,6 @@ categories:
 tags:
 ---
 
-# 1 Querying data
-
-## 1.1 SELECT
-
-```sql
-SELECT select_list
-FROM table_name;
-```
-
-<img src="/images/mysql-select-from.png" >
-
-## 1.2 ORDER BY
-
-```sql
-SELECT 
-   select_list
-FROM 
-   table_name
-ORDER BY 
-   column1 [ASC|DESC], 
-   column2 [ASC|DESC],
-   ...;
-```
-
 To use `union` and `order by` together.
 
 * remove the first `order by`

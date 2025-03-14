@@ -1,14 +1,12 @@
 ---
-title: Commonly Used Java APIs
+title: The Collections Framework
 date: 2025-03-06 20:46:06
 categories:
 - Java
 tags:
 ---
 
-# 1 The Collections Framework
-
-## 1.1 Introducing the Collections Framework
+# 1 Introducing the Collections Framework
 
 The Collections Framework was first introduced in Java SE 2, in 1998 and was rewritten twice since then:
 
@@ -19,17 +17,21 @@ These two are the most important updates of the Collections Framework that have 
 
 The amount of interfaces and classes in the Collections Framework may be overwhelming at first.
 
-## 1.2 Collection Hierarchy
+# 2 Collection Hierarchy
 
 <img src="/images/java-collection-hierarchy.png">
 
-### 1.2.1 Extending Collection with List
+## 2.1 Extending Collection with List
+
+### 2.1.1 Choosing Implementation of the List Interface
 
 The difference between a `List` of elements and a `Collection` of elements, is that a `List` remembers in what order its elements have been added.
 
-### 1.2.2 Extending Collection with Set
+### 2.1.2 Accessing the Elements Using an Index
 
-I don't use this.
+## 2.2 Extending Collection with Set
+
+I don't use this implementation.
 
 # 2 The Stream API
 
